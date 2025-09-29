@@ -1,0 +1,10 @@
+streamlit>=1.37.0
+langchain>=0.2.0
+langchain-community>=0.2.0
+faiss-cpu>=1.7.4
+transformers>=4.41.0
+torch>=2.2.0
+sentence-transformers>=2.7.0
+unstructured>=0.15.0
+pdfminer.six>=20221105
+python-magic>=0.4.27
